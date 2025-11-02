@@ -133,3 +133,4 @@ alias ls="eza --icons=auto"
 eval "$(zoxide init zsh --cmd cd)"
 
 export PATH="$PATH:/Users/tannerleonard/Library/Python/3.9/bin"
+export PATH="$HOME/.local/bin:$PATH"
