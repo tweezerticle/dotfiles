@@ -1,3 +1,5 @@
 [user]
 	name = Tanner Leonard
 	email = tannerljosephdfs@gmail.com
+[core]
+	excludesfile = ~/.global_gitignore
