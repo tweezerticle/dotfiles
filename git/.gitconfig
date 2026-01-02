@@ -3,3 +3,5 @@
 	email = tannerljosephdfs@gmail.com
 [core]
 	excludesfile = ~/.global_gitignore
+[init]
+	defaultBranch = main
