@@ -243,6 +243,10 @@ run = 'move-node-to-workspace B'
 if.app-id = 'com.google.Chrome'
 run = 'move-node-to-workspace B'
 
+[[on-window-detected]]
+if.app-id = 'com.kagi.kagimacOS'
+run = 'move-node-to-workspace B'
+
 # --- tiling ---
 
 [[on-window-detected]]
